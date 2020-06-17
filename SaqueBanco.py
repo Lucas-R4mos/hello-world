@@ -63,5 +63,5 @@ while ok == 1:
         ok = ok + 1
     else:
         ok = ok
-
+        print('Opção inválida.')
 print('--------------------------------------------')
