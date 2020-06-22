@@ -19,7 +19,7 @@ perguntas_inteiro = ('Informe a quantidade de dados: ', 'Informe a quantidade de
 print('Simulador de dado.')
 continuar = ''
 
-while continuar == 's':
+while continuar == '' or continuar == 's':
     continuar = ''
     quantidade = input(perguntas_inteiro[0])
     quantidade = check_inteiro(perguntas_inteiro[0], quantidade)
