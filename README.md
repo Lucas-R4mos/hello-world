@@ -1,8 +1,2 @@
 # hello-world
-en: Here i'll share my progress from zero to only god knows in programming world.
-I have a chemistry bachelor degree, but since childhood I have been passionate about computers.
-Now I'm starting from "zero" to learn basics of programming and seeking a good job to apply what I'm learning.
-
-pt-br: Aqui irei compartilhar meu progresso do zero para "só Deus sabe" no mundo da programação.
-Sou bacharel em química, mas sou apaixonado por computadores desde a infância.
-Agora eu estou começando do "zero" a aprender os básicos da programação e procurando um bom trabalho para aplicar o que estou aprendendo.
+Alguns códigos que escrevi no início dos meus estudos em programação. Eles seguem uma lista de desafios propostos pelo site https://wiki.python.org.br/ListaDeExercicios para o aprendizado de lógica de programação.
